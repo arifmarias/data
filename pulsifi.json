@@ -1,0 +1,34 @@
+[{
+    "profile_id": "abcd-1234",
+    "first_name": "John",
+    "last_name": "Wick",
+    "work_experience": [
+        {
+            "job_id": "1234",
+            "job_title": "Assassin",
+            "organization_id": "5678",
+            "organization_name": "Tarasov Russian Mafia",
+            "started_at": "1999-10-01",
+            "ended_at": "2009-10-01",
+            "current_job": False
+        }
+    ],
+    "social_media": [
+        {
+            "id": 1,
+            "media": "facebook",
+            "account_name": "Baba Yaga",
+            "active_since": "2009-10-01"
+        },
+        {
+            "id": 2,
+            "media": "instagram",
+            "account_name": "Boogeyman",
+            "active_since": "2009-10-01"
+        }
+    ],
+    "contact": {
+        "mobile": "+6012-345 6789",
+        "email": "johnwick@darkweb.com"
+    }
+}]
